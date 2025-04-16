@@ -1,0 +1,8 @@
+.webgl-container {
+  width: 70vw;
+  height: 70vh;
+  background-color: #000;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+} 
